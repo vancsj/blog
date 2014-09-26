@@ -7,7 +7,21 @@
     <language>zh-CN</language>
     
     
-    <updated>Sat, 27 Sep 2014 03:16:26 CST</updated>
+    <updated>Sat, 27 Sep 2014 04:43:18 CST</updated>
+    
+    <item>
+      <title>第一篇</title>
+      <link>http://avnote.com/post/first/</link>
+      <pubDate>Sat, 27 Sep 2014 04:43:18 CST</pubDate>
+      
+      <guid>http://avnote.com/post/first/</guid>
+      <description>&lt;p&gt;这是新博客的第一篇文章。&lt;/p&gt;
+
+&lt;p&gt;这个博客现在采用Hugo静态生成，寄生在Github上。&lt;/p&gt;
+
+&lt;p&gt;以前的博文看情况慢慢转移过来吧。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>关于大树</title>
