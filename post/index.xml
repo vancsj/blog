@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on 大树底下 </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://avnote.com/post/index.xml/</link>
+    <link>http://vancsj.github.io/blog/post/index.xml/</link>
     <language>zh-CN</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>hello</title>
-      <link>http://avnote.com/post/hello/</link>
+      <link>http://vancsj.github.io/blog/post/hello/</link>
       <pubDate>Sat, 27 Sep 2014 03:11:45 CST</pubDate>
       
-      <guid>http://avnote.com/post/hello/</guid>
+      <guid>http://vancsj.github.io/blog/post/hello/</guid>
       <description></description>
     </item>
     
