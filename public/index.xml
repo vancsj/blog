@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on 大树底下 </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://avnote.com/index.xml/</link>
+    <language>zh-CN</language>
+    
+    
+    <updated>Sat, 27 Sep 2014 03:16:26 CST</updated>
+    
+    <item>
+      <title>关于大树</title>
+      <link>http://avnote.com/about/</link>
+      <pubDate>Sat, 27 Sep 2014 03:16:26 CST</pubDate>
+      
+      <guid>http://avnote.com/about/</guid>
+      <description>&lt;p&gt;大树同学曾经一度是瘦子。
+可惜，他现在已经很胖很胖了。
+他很希望某一天能瘦回去。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>http://avnote.com/post/hello/</link>
+      <pubDate>Sat, 27 Sep 2014 03:11:45 CST</pubDate>
+      
+      <guid>http://avnote.com/post/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

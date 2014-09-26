@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://avnote.com/</loc>
+    <lastmod>2014-09-27T03:16:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://avnote.com/about/</loc>
+    <lastmod>2014-09-27T03:16:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://avnote.com/post/hello/</loc>
+    <lastmod>2014-09-27T03:11:45+08:00</lastmod>
+  </url>
+  
+</urlset>
