@@ -1,6 +1,6 @@
 +++
 date = "2014-09-29T17:26:57+08:00"
-draft = true
+draft = false
 title = "比特币的手续费会一直很低吗"
 
 +++
